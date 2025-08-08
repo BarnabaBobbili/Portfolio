@@ -17,3 +17,14 @@ Thumbs.db
 # Build folders (optional, if you rebuild on server)
 dist/
 build/
+
+# Ignore node modules
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
